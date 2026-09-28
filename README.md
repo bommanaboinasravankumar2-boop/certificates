@@ -1,3 +1,4 @@
+
 # Certificates
 
 My internship and course certificates.
@@ -6,4 +7,4 @@ My internship and course certificates.
 - SkillDzire, with Andhra Pradesh State Council of Higher Education
 - 22 April 2026 to 22 June 2026
 - Certificate ID: 45t9buqio7
-- [View Certificate](45t9buqio7%20(3).pdf)
+- [View Certificate](45t9buqio7.pdf)
